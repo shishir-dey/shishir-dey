@@ -16,7 +16,7 @@
 | Firmware | - | MQTTS | [Link](https://github.com/shishir-dey/iot-firmware-sdk) | - |
 | Firmware | - | Modbus | [Link](https://github.com/shishir-dey/libmodbus) | - |
 | Firmware | - | Power Electronics | [Link](https://github.com/shishir-dey/libpower) | - |
-| Firmware | libmodbus | Modbus | [Link](https://github.com/shishir-dey/libmodbus-demo) | - |
+| Firmware | libmodbus | Example code | [Link](https://github.com/shishir-dey/libmodbus-demo) | - |
 
 ## Templates
 
@@ -43,7 +43,7 @@
 
 ## Experiments with Languages/Frameworks
 
-| Type | Framework | Feature | Repository | Docs |
+| Topic | Framework | Feature | Repository | Docs |
 |:----:|:---------:|:--------:|:----------:|:----:|
 | Linux User Applications | - | - | [Link](https://github.com/shishir-dey/linux-user-app-samples) | - |
 | Rust | - | - | [Link](https://github.com/shishir-dey/rust-samples) | - |
