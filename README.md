@@ -35,7 +35,7 @@
 | FPGA | KiCAD | iCE40 | [Link](https://github.com/shishir-dey/pcb-dev-fpga-iCE40) | - |
 | RF | KiCAD | uBlox | [Link](https://github.com/shishir-dey/pcb-rf-4g-ublox) | - |
 
-## Desktop GUI Projects
+## Desktop Software Projects
 
 | Type | Framework | Feature | Repository | Docs |
 |------|-----------|----------|------------|------|
@@ -45,7 +45,7 @@
 
 | Type | Framework | Feature | Repository | Docs |
 |------|-----------|----------|------------|------|
-| Experiments | - | Linux User Applications | [Link](https://github.com/shishir-dey/linux-user-app-samples) | - |
-| Experiments | - | Rust | [Link](https://github.com/shishir-dey/rust-samples) | - |
-| Experiments | - | VHDL | [Link](https://github.com/shishir-dey/vhdl-samples) | - |
+| Linux User Applications | - | - | [Link](https://github.com/shishir-dey/linux-user-app-samples) | - |
+| Rust | - | - | [Link](https://github.com/shishir-dey/rust-samples) | - |
+| VHDL | - | - | [Link](https://github.com/shishir-dey/vhdl-samples) | - |
 
