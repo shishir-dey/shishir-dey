@@ -1,4 +1,4 @@
-# Stuff I've Built (and either abandoned or, worse, regret building)
+# Stuff I've built (and abandoned mid-way)
 
 ## Firmware Projects
 
