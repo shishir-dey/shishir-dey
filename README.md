@@ -15,7 +15,6 @@
 |:----:|:--------:|:---------:|:--------:|:----------:|:----:|:-----------:|
 | Firmware | C | - | IoT, MQTTS | [🔗](https://github.com/shishir-dey/iot-firmware-sdk) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/iot-firmware-sdk)](https://github.com/shishir-dey/iot-firmware-sdk) |
 | Firmware | C++ | - | Modbus | [🔗](https://github.com/shishir-dey/libmodbus) | [📄](https://shishir-dey.github.io/libmodbus/) | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/libmodbus)](https://github.com/shishir-dey/libmodbus) |
-| Example | C++ | - | Modbus | [🔗](https://github.com/shishir-dey/libmodbus-demo) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/libmodbus-demo)](https://github.com/shishir-dey/libmodbus-demo) |
 | Firmware | Rust | - | Power Electronics | [🔗](https://github.com/shishir-dey/libpower) | [📄](https://shishir-dey.github.io/libpower/) | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/libpower)](https://github.com/shishir-dey/libpower) |
 
 ## Templates
