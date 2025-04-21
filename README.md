@@ -4,7 +4,6 @@
 
 | Platform | Language | Framework | Feature | Repository | Docs | Last Commit |
 |:--------:|:--------:|:---------:|:--------:|:----------:|:----:|:-----------:|
-| ESP32 | C | ESP-IDF | GitHub Actions | [🔗](https://github.com/shishir-dey/esp32-esp-idf-github-actions) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/esp32-esp-idf-github-actions)](https://github.com/shishir-dey/esp32-esp-idf-github-actions) |
 | STM32 | C | STM32Cube | USB HID | [🔗](https://github.com/shishir-dey/stm32-keyboard-ctrl-c-v) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/stm32-keyboard-ctrl-c-v)](https://github.com/shishir-dey/stm32-keyboard-ctrl-c-v) |
 | STM32 | C | STM32Cube | SDMMC, FatFS | [🔗](https://github.com/shishir-dey/stm32-sdmmc-fatfs-wav) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/stm32-sdmmc-fatfs-wav)](https://github.com/shishir-dey/stm32-sdmmc-fatfs-wav) |
 | STM32 | C | STM32Cube | USB MSC, FatFS | [🔗](https://github.com/shishir-dey/stm32-usb-msc) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/stm32-usb-msc)](https://github.com/shishir-dey/stm32-usb-msc) |
@@ -21,6 +20,7 @@
 
 | Type | Language | Framework | Feature | Repository | Docs | Last Commit |
 |:----:|:--------:|:---------:|:--------:|:----------:|:----:|:-----------:|
+| ESP32 | C | ESP-IDF | GitHub Actions | [🔗](https://github.com/shishir-dey/esp32-esp-idf-github-actions) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/esp32-esp-idf-github-actions)](https://github.com/shishir-dey/esp32-esp-idf-github-actions) |
 | Firmware | C | - | CI/CD Pipelines, Devcontainers | [🔗](https://github.com/shishir-dey/stm32-devops-template) | [📄](https://shishir-dey.github.io/stm32-devops-template/) | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/stm32-devops-template)](https://github.com/shishir-dey/stm32-devops-template) |
 
 ## PCB Projects
