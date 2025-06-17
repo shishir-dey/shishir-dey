@@ -34,12 +34,6 @@
 | FPGA Development Board | KiCAD | iCE40 | [🔗](https://github.com/shishir-dey/pcb-dev-fpga-iCE40) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/pcb-dev-fpga-iCE40)](https://github.com/shishir-dey/pcb-dev-fpga-iCE40) |
 | RF | KiCAD | uBlox | [🔗](https://github.com/shishir-dey/pcb-rf-4g-ublox) | - | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/pcb-rf-4g-ublox)](https://github.com/shishir-dey/pcb-rf-4g-ublox) |
 
-## CAD Projects
-
-| Type | Tool | Feature | Repository | Docs | Last Commit |
-|:----:|:----:|:--------:|:----------:|:----:|:-----------:
-| FEA | FreeCAD | - | [🔗](https://github.com/shishir-dey/cad-fea-FreeCAD-unknown) | [📄](https://shishir-dey.github.io/cad-fea-FreeCAD-unknown/) | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/cad-fea-FreeCAD-unknown)](https://github.com/shishir-dey/cad-fea-FreeCAD-unknown) |
-
 ## Desktop Software Projects
 
 | Type | Language | Framework | Feature | Repository | Docs | Last Commit |
