@@ -25,6 +25,7 @@
 |:----:|:-----:|:-----------:|:-----------:|
 | libautomotive | [🔗 Repo](https://github.com/shishir-dey/libautomotive) • [📄 Docs](https://shishir-dey.github.io/libautomotive/) | Rust automotive protocols (OBD-II, J1939, LIN, UDS) | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/libautomotive)](https://github.com/shishir-dey/libautomotive) |
 | libpower | [🔗 Repo](https://github.com/shishir-dey/libpower) • [📄 Docs](https://shishir-dey.github.io/libpower/) | Rust power electronics algorithms for embedded systems | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/libpower)](https://github.com/shishir-dey/libpower) |
+| libiot | [🔗 Repo](https://github.com/shishir-dey/libiot) | Rust SDK for IoT cloud connectivity | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/libiot)](https://github.com/shishir-dey/libiot) |
 | libmodbus | [🔗 Repo](https://github.com/shishir-dey/libmodbus) • [📄 Docs](https://shishir-dey.github.io/libmodbus/) | Lightweight C++ Modbus library for embedded systems | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/libmodbus)](https://github.com/shishir-dey/libmodbus) |
 
 ## PCB
