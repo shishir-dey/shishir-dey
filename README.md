@@ -5,6 +5,7 @@
 | Name | Links | Description | Last Commit |
 |:----:|:-----:|:-----------:|:-----------:|
 | stm32-devops-template | [🔗 Repo](https://github.com/shishir-dey/stm32-devops-template) • [📄 Docs](https://shishir-dey.github.io/stm32-devops-template/) | DevOps practices showcase for microcontroller projects | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/stm32-devops-template)](https://github.com/shishir-dey/stm32-devops-template) |
+| stm32-rust-template | [🔗 Repo](https://github.com/shishir-dey/stm32-rust-template) | Bare-metal Rust template for STM32 microcontrollers | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/stm32-rust-template)](https://github.com/shishir-dey/stm32-rust-template) |
 
 ## CAD
 
