@@ -21,6 +21,12 @@
 | Clippy | [🔗 Repo](https://github.com/shishir-dey/Clippy) • [🌐 App](https://shishir-dey.github.io/Clippy/) | Minimal notepad tribute to Microsoft's Clippy | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/Clippy)](https://github.com/shishir-dey/Clippy) |
 | ngspiceX | [🔗 Repo](https://github.com/shishir-dey/ngspiceX) • [🌐 App](https://shishir-dey.github.io/ngspiceX/) | A browser-based SPICE circuit simulator | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/ngspiceX)](https://github.com/shishir-dey/ngspiceX) |
 
+## Desktop App
+
+| Name | Links | Description | Last Commit |
+|:----:|:-----:|:-----------:|:-----------:|
+| Callisto | [🔗 Repo](https://github.com/shishir-dey/Callisto) | probe-rs based ITM viewer for Cortex-M | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/Callisto)](https://github.com/shishir-dey/Callisto) |
+
 ## Library
 
 | Name | Links | Description | Last Commit |
