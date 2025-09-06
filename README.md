@@ -6,6 +6,7 @@
 |:----:|:-----:|:-----------:|:-----------:|
 | stm32-devops-template | [🔗 Repo](https://github.com/shishir-dey/stm32-devops-template) • [📄 Docs](https://shishir-dey.github.io/stm32-devops-template/) | DevOps practices showcase for microcontroller projects | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/stm32-devops-template)](https://github.com/shishir-dey/stm32-devops-template) |
 | stm32-rust-template | [🔗 Repo](https://github.com/shishir-dey/stm32-rust-template) | Bare-metal Rust template for STM32 microcontrollers | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/stm32-rust-template)](https://github.com/shishir-dey/stm32-rust-template) |
+| ch32v103-template | [🔗 Repo](https://github.com/shishir-dey/ch32v103-template) | Bare-metal C template for WCH CH32 microcontrollers | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/ch32v103-template)](https://github.com/shishir-dey/ch32v103-template) |
 
 ## CAD
 
