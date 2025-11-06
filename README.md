@@ -46,10 +46,11 @@
 | pcb-dev-fpga-iCE40 | [🔗 Repo](https://github.com/shishir-dey/pcb-dev-fpga-iCE40) | 2-layer ICE40UP5K-SG48ITR FPGA board in KiCad | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/pcb-dev-fpga-iCE40)](https://github.com/shishir-dey/pcb-dev-fpga-iCE40) |
 | pcb-rf-4g-ublox | [🔗 Repo](https://github.com/shishir-dey/pcb-rf-4g-ublox) | u-blox TOBY-L2 LTE Cat 4 module with STM32F407 | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/pcb-rf-4g-ublox)](https://github.com/shishir-dey/pcb-rf-4g-ublox) |
 
-## RTL
+## VLSI
 
 | Name | Links | Description | Last Commit |
 |:----:|:-----:|:-----------:|:-----------:|
 | vhdl-samples | [🔗 Repo](https://github.com/shishir-dey/vhdl-samples) • [📄 Docs](https://shishir-dey.github.io/vhdl-samples/) | VHDL digital circuits with automated CI/CD test suite | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/vhdl-samples)](https://github.com/shishir-dey/vhdl-samples) |
+| asic-mppt | [🔗 Repo](https://github.com/shishir-dey/asic-mppt) | ASIC implementation of a MPPT controller | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/asic-mppt)](https://github.com/shishir-dey/asic-mppt) |
 
 🤖 vibe coded
