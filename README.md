@@ -20,7 +20,8 @@
 |:----:|:-----:|:-----------:|:-----------:|
 | Clippy 🤖 | [🔗 Repo](https://github.com/shishir-dey/Clippy) • [🌐 App](https://shishir-dey.github.io/Clippy/) | Minimal notepad tribute to Microsoft's Clippy | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/Clippy)](https://github.com/shishir-dey/Clippy) |
 | ngspiceX 🤖 | [🔗 Repo](https://github.com/shishir-dey/ngspiceX) • [🌐 App](https://shishir-dey.github.io/ngspiceX/) | A browser-based SPICE circuit simulator | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/ngspiceX)](https://github.com/shishir-dey/ngspiceX) |
-| Rhythm 🤖 | [🔗 Repo](https://github.com/shishir-dey/Rhythm) • [🌐 App](https://shishir-dey.github.io/Rhythm/) | Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap (short) | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/Rhythm)](https://github.com/shishir-dey/Rhythm) |
+| Rhythm 🤖 | [🔗 Repo](https://github.com/shishir-dey/Rhythm) • [🌐 App](https://shishir-dey.github.io/Rhythm/) | Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/Rhythm)](https://github.com/shishir-dey/Rhythm) |
+| RedFlag 🤖 | [🔗 Repo](https://github.com/shishir-dey/RedFlag) • [🌐 App](https://shishir-dey.github.io/RedFlag/) | Tool to analyze a company's financials and generate plots to detect red flags | [![Last Commit](https://img.shields.io/github/last-commit/shishir-dey/RedFlag)](https://github.com/shishir-dey/RedFlag) |
 
 ## Desktop App
 
