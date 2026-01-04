@@ -20,7 +20,7 @@
 - [pcb-dev-fpga-iCE40](https://github.com/shishir-dey/pcb-dev-fpga-iCE40): 2-layer ICE40UP5K-SG48ITR FPGA board in KiCad
 - [pcb-rf-4g-ublox](https://github.com/shishir-dey/pcb-rf-4g-ublox): u-blox TOBY-L2 LTE Cat 4 module with STM32F407
 
-#### VLSI
+#### RTL
 
 - [vhdl-samples](https://github.com/shishir-dey/vhdl-samples): VHDL digital circuits with automated CI/CD test suite [📖](https://shishir-dey.github.io/vhdl-samples/)
 - [asic-mppt](https://github.com/shishir-dey/asic-mppt): ASIC implementation of a MPPT controller
@@ -29,7 +29,7 @@
 
 - [cad-alarm-clock](https://github.com/shishir-dey/cad-alarm-clock): 3D modeled alarm clock designed in FreeCAD [🎨](https://shishir-dey.github.io/cad-alarm-clock/)
 
-#### Web & Desktop Apps (vibe-coded, then abandoned)
+#### Web, Desktop & Mobile Apps (vibe-coded, then abandoned)
 
 - [Clippy](https://github.com/shishir-dey/Clippy): Minimal notepad tribute to Microsoft's Clippy [🌐](https://shishir-dey.github.io/Clippy/)
 - [ngspiceX](https://github.com/shishir-dey/ngspiceX): A browser-based SPICE circuit simulator [🌐](https://shishir-dey.github.io/ngspiceX/)
@@ -37,3 +37,4 @@
 - [RedFlag](https://github.com/shishir-dey/RedFlag): Tool to analyze a company's financials and generate plots to detect red flags [🌐](https://shishir-dey.github.io/RedFlag/)
 - [Callisto](https://github.com/shishir-dey/Callisto): probe-rs based ITM viewer for Cortex-M
 - [Stella](https://github.com/shishir-dey/Stella): A versatile tool for interacting with the CAN bus
+- [open_battery](https://github.com/shishir-dey/open_battery): A flutter app for generic Chinese Battery Management Systems [📖](https://shishir-dey.github.io/open_battery/)
