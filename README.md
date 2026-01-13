@@ -36,4 +36,4 @@
 - [RedFlag](https://github.com/shishir-dey/RedFlag): Tool to analyze a company's financials and generate plots to detect red flags [🌐](https://shishir-dey.github.io/RedFlag/)
 - [Callisto](https://github.com/shishir-dey/Callisto): probe-rs based ITM viewer for Cortex-M
 - [Stella](https://github.com/shishir-dey/Stella): A versatile tool for interacting with the CAN bus
-- [open_battery](https://github.com/shishir-dey/open_battery): A flutter app for generic Chinese Battery Management Systems [📖](https://shishir-dey.github.io/open_battery/)
+- [open_battery](https://github.com/shishir-dey/open_battery): Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📖](https://shishir-dey.github.io/open_battery/)
