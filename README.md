@@ -37,3 +37,5 @@
 - [Callisto](https://github.com/shishir-dey/Callisto): probe-rs based ITM viewer for Cortex-M
 - [Stella](https://github.com/shishir-dey/Stella): A versatile tool for interacting with the CAN bus
 - [open_battery](https://github.com/shishir-dey/open_battery): Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📖](https://shishir-dey.github.io/open_battery/)
+- [schematic](https://github.com/shishir-dey/schematic): mermaid.js for KiCad [🌐](https://shishir-dey.github.io/schematic/)
+- [Ledger-Pro](https://github.com/shishir-dey/Ledger-Pro): A Swift-based macOS app for parsing, rendering, and exporting processed XBRL files
