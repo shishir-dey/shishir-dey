@@ -28,7 +28,7 @@
 
 - [cad-alarm-clock](https://github.com/shishir-dey/cad-alarm-clock): 3D modeled alarm clock designed in FreeCAD [🎨](https://shishir-dey.github.io/cad-alarm-clock/)
 
-#### Web, Desktop & Mobile Apps (vibe-coded, then abandoned)
+#### Misc. (vibe-coded, then abandoned)
 
 - [Clippy](https://github.com/shishir-dey/Clippy): Minimal notepad tribute to Microsoft's Clippy [🌐](https://shishir-dey.github.io/Clippy/)
 - [ngspiceX](https://github.com/shishir-dey/ngspiceX): A browser-based SPICE circuit simulator [🌐](https://shishir-dey.github.io/ngspiceX/)
@@ -39,3 +39,5 @@
 - [open_battery](https://github.com/shishir-dey/open_battery): Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📖](https://shishir-dey.github.io/open_battery/)
 - [schematic](https://github.com/shishir-dey/schematic): mermaid.js for KiCad [🌐](https://shishir-dey.github.io/schematic/)
 - [Ledger-Pro](https://github.com/shishir-dey/Ledger-Pro): A Swift-based macOS app for parsing, rendering, and exporting processed XBRL files
+- [LISA](https://github.com/shishir-dey/LISA): A synthesizable processor whose architectural instruction stream is a simplified LLVM-like bytecode format
+  
