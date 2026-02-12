@@ -21,8 +21,9 @@
 
 #### RTL
 
-- [vhdl-samples](https://github.com/shishir-dey/vhdl-samples): VHDL digital circuits with automated CI/CD test suite [📖](https://shishir-dey.github.io/vhdl-samples/)
 - [asic-mppt](https://github.com/shishir-dey/asic-mppt): ASIC implementation of a MPPT controller
+- [vhdl-samples](https://github.com/shishir-dey/vhdl-samples): VHDL digital circuits with automated CI/CD test suite [📖](https://shishir-dey.github.io/vhdl-samples/)
+- [LISA](https://github.com/shishir-dey/LISA): A synthesizable processor with an ISA based on a simplified LLVM-like bytecode format
 
 #### CAD
 
@@ -30,14 +31,10 @@
 
 #### Misc. (vibe-coded, then abandoned)
 
+- [Callisto](https://github.com/shishir-dey/Callisto): probe-rs based ITM viewer for Cortex-M
 - [Clippy](https://github.com/shishir-dey/Clippy): Minimal notepad tribute to Microsoft's Clippy [🌐](https://shishir-dey.github.io/Clippy/)
 - [ngspiceX](https://github.com/shishir-dey/ngspiceX): A browser-based SPICE circuit simulator [🌐](https://shishir-dey.github.io/ngspiceX/)
-- [Rhythm](https://github.com/shishir-dey/Rhythm): Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap [🌐](https://shishir-dey.github.io/Rhythm/)
-- [RedFlag](https://github.com/shishir-dey/RedFlag): Tool to analyze a company's financials and generate plots to detect red flags [🌐](https://shishir-dey.github.io/RedFlag/)
-- [Callisto](https://github.com/shishir-dey/Callisto): probe-rs based ITM viewer for Cortex-M
-- [Stella](https://github.com/shishir-dey/Stella): A versatile tool for interacting with the CAN bus
 - [open_battery](https://github.com/shishir-dey/open_battery): Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📖](https://shishir-dey.github.io/open_battery/)
+- [Rhythm](https://github.com/shishir-dey/Rhythm): Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap [🌐](https://shishir-dey.github.io/Rhythm/)
 - [schematic](https://github.com/shishir-dey/schematic): mermaid.js for KiCad [🌐](https://shishir-dey.github.io/schematic/)
-- [Ledger-Pro](https://github.com/shishir-dey/Ledger-Pro): A Swift-based macOS app for parsing, rendering, and exporting processed XBRL files
-- [LISA](https://github.com/shishir-dey/LISA): A synthesizable processor whose architectural instruction stream is a simplified LLVM-like bytecode format
-  
+- [Stella](https://github.com/shishir-dey/Stella): A versatile tool for interacting with the CAN bus
