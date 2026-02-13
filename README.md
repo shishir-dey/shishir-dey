@@ -23,7 +23,7 @@
 
 - [asic-mppt](https://github.com/shishir-dey/asic-mppt): ASIC implementation of a MPPT controller
 - [vhdl-samples](https://github.com/shishir-dey/vhdl-samples): VHDL digital circuits with automated CI/CD test suite [📖](https://shishir-dey.github.io/vhdl-samples/)
-- [LISA](https://github.com/shishir-dey/LISA): A synthesizable processor with an ISA based on a simplified LLVM-like bytecode format
+- [LISA](https://github.com/shishir-dey/LISA): A synthesizable processor with an ISA based on a simplified LLVM-like bytecode format [📖](https://shishir-dey.github.io/LISA/)
 
 #### CAD
 
