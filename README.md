@@ -37,4 +37,3 @@
 - [open_battery](https://github.com/shishir-dey/open_battery): Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📖](https://shishir-dey.github.io/open_battery/)
 - [Rhythm](https://github.com/shishir-dey/Rhythm): Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap [🌐](https://shishir-dey.github.io/Rhythm/)
 - [schematic](https://github.com/shishir-dey/schematic): mermaid.js for KiCad [🌐](https://shishir-dey.github.io/schematic/)
-- [Stella](https://github.com/shishir-dey/Stella): A versatile tool for interacting with the CAN bus
