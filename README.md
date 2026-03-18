@@ -36,4 +36,3 @@
 - [ngspiceX](https://github.com/shishir-dey/ngspiceX): A browser-based SPICE circuit simulator [🌐](https://shishir-dey.github.io/ngspiceX/)
 - [open_battery](https://github.com/shishir-dey/open_battery): Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📖](https://shishir-dey.github.io/open_battery/)
 - [Rhythm](https://github.com/shishir-dey/Rhythm): Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap [🌐](https://shishir-dey.github.io/Rhythm/)
-- [schematic](https://github.com/shishir-dey/schematic): mermaid.js for KiCad [🌐](https://shishir-dey.github.io/schematic/)
