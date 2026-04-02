@@ -5,7 +5,7 @@
 - [libautomotive](https://github.com/shishir-dey/libautomotive): Rust automotive protocols (OBD-II, J1939, LIN, UDS) [📖](https://shishir-dey.github.io/libautomotive/)
 - [libpower](https://github.com/shishir-dey/libpower): Rust power electronics algorithms for embedded systems [📖](https://shishir-dey.github.io/libpower/)
 - [libiot](https://github.com/shishir-dey/libiot): Rust SDK for IoT cloud connectivity [📖](https://shishir-dey.github.io/libiot/)
-- [libmodbus](https://github.com/shishir-dey/libmodbus): Rust implementation of the Modbus protocol [📖](https://shishir-dey.github.io/libmodbus/)
+- [libmodbuzz](https://github.com/shishir-dey/libmodbuzz): Rust implementation of the Modbus protocol [📖](https://shishir-dey.github.io/libmodbuzz/)
 
 #### Firmware
 
