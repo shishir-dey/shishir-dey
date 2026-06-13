@@ -7,6 +7,7 @@
 - [libiot](https://github.com/shishir-dey/libiot): Rust SDK for IoT cloud connectivity [📖](https://shishir-dey.github.io/libiot/)
 - [libmodbuzz](https://github.com/shishir-dey/libmodbuzz): Rust implementation of the Modbus protocol [📖](https://shishir-dey.github.io/libmodbuzz/)
 - [spi_flash](https://github.com/shishir-dey/spi_flash): SPI flash driver for Winbond W25Q and similar devices [📖](https://shishir-dey.github.io/spi_flash/)
+- [supabase-micro](https://github.com/shishir-dey/supabase-micro): A no_std Supabase client for embedded devices
 
 #### Firmware
 
