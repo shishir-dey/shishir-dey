@@ -11,7 +11,7 @@
 
 #### Specification
 
-- [DatasheetXML](https://github.com/shishir-dey/datasheetxml): A Vendor-Neutral, Machine-Readable Format for Electronic Component Datasheets [📚](https://shishir-dey.github.io/DatasheetXML/)
+- [DatasheetXML](https://github.com/shishir-dey/datasheetxml): A machine-readable format for electronic component datasheets [📚](https://shishir-dey.github.io/DatasheetXML/)
 
 #### Firmware
 
