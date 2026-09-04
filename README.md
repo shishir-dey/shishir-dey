@@ -12,6 +12,13 @@
 
 - [DatasheetXML](https://github.com/shishir-dey/datasheetxml): A machine-readable format for electronic component datasheets [📚](https://shishir-dey.github.io/DatasheetXML/)
 
+#### Tools
+
+- [Callisto](https://github.com/shishir-dey/Callisto): probe-rs based ITM viewer for Cortex-M
+- [KiView](https://github.com/shishir-dey/KiView): KiCad PCB Viewer [🌐](https://shishir-dey.github.io/KiView/)
+- [ngspiceX](https://github.com/shishir-dey/ngspiceX): A browser-based SPICE circuit simulator [🌐](https://shishir-dey.github.io/ngspiceX/)
+- [OpenDFM](https://github.com/shishir-dey/OpenDFM): A private, browser-based Gerber design-for-manufacturing checker [🌐](https://shishir-dey.github.io/OpenDFM/)
+
 #### Firmware
 
 - [stm32-devops-template](https://github.com/shishir-dey/stm32-devops-template): DevOps practices showcase for microcontroller projects [📚](https://shishir-dey.github.io/stm32-devops-template/)
@@ -39,8 +46,7 @@
 
 #### Misc. (vibe-coded, then abandoned)
 
-- [Callisto](https://github.com/shishir-dey/Callisto): probe-rs based ITM viewer for Cortex-M
 - [Clippy](https://github.com/shishir-dey/Clippy): Minimal notepad tribute to Microsoft's Clippy [🌐](https://shishir-dey.github.io/Clippy/)
-- [ngspiceX](https://github.com/shishir-dey/ngspiceX): A browser-based SPICE circuit simulator [🌐](https://shishir-dey.github.io/ngspiceX/)
+- [eqOS](https://github.com/shishir-dey/eqos): A game-theory-based Real-Time Operating System (RTOS) scheduler
 - [open_battery](https://github.com/shishir-dey/open_battery): Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📚](https://shishir-dey.github.io/open_battery/)
 - [Rhythm](https://github.com/shishir-dey/Rhythm): Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap [🌐](https://shishir-dey.github.io/Rhythm/)
