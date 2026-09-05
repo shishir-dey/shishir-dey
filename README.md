@@ -14,7 +14,7 @@
 
 #### Tools
 
-- [Callisto](https://github.com/shishir-dey/Callisto): probe-rs based ITM viewer for Cortex-M
+- [Callisto](https://github.com/shishir-dey/Callisto)\*: probe-rs based ITM viewer for Cortex-M
 - [KiView](https://github.com/shishir-dey/KiView): KiCad PCB Viewer [🌐](https://shishir-dey.github.io/KiView/)
 - [ngspiceX](https://github.com/shishir-dey/ngspiceX): A browser-based SPICE circuit simulator [🌐](https://shishir-dey.github.io/ngspiceX/)
 - [OpenDFM](https://github.com/shishir-dey/OpenDFM): A private, browser-based Gerber design-for-manufacturing checker [🌐](https://shishir-dey.github.io/OpenDFM/)
@@ -36,17 +36,19 @@
 
 #### RTL
 
-- [asic-mppt](https://github.com/shishir-dey/asic-mppt): ASIC implementation of a MPPT controller
+- [asic-mppt](https://github.com/shishir-dey/asic-mppt)\*: ASIC implementation of a MPPT controller
 - [vhdl-samples](https://github.com/shishir-dey/vhdl-samples): VHDL digital circuits with automated CI/CD test suite [📚](https://shishir-dey.github.io/vhdl-samples/)
-- [LISA](https://github.com/shishir-dey/LISA): A synthesizable processor with an ISA based on a simplified LLVM-like bytecode format [📚](https://shishir-dey.github.io/LISA/)
+- [LISA](https://github.com/shishir-dey/LISA)\*: A synthesizable processor with an ISA based on a simplified LLVM-like bytecode format [📚](https://shishir-dey.github.io/LISA/)
 
 #### CAD
 
 - [cad-alarm-clock](https://github.com/shishir-dey/cad-alarm-clock): 3D modeled alarm clock designed in FreeCAD [🎨](https://shishir-dey.github.io/cad-alarm-clock/)
 
-#### Misc. (vibe-coded, then abandoned)
+#### Misc.
 
-- [Clippy](https://github.com/shishir-dey/Clippy): Minimal notepad tribute to Microsoft's Clippy [🌐](https://shishir-dey.github.io/Clippy/)
-- [eqOS](https://github.com/shishir-dey/eqos): A game-theory-based Real-Time Operating System (RTOS) scheduler
-- [open_battery](https://github.com/shishir-dey/open_battery): Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📚](https://shishir-dey.github.io/open_battery/)
-- [Rhythm](https://github.com/shishir-dey/Rhythm): Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap [🌐](https://shishir-dey.github.io/Rhythm/)
+- [Clippy](https://github.com/shishir-dey/Clippy)\*: Minimal notepad tribute to Microsoft's Clippy [🌐](https://shishir-dey.github.io/Clippy/)
+- [eqOS](https://github.com/shishir-dey/eqos)\*: A game-theory-based Real-Time Operating System (RTOS) scheduler
+- [open_battery](https://github.com/shishir-dey/open_battery)\*: Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📚](https://shishir-dey.github.io/open_battery/)
+- [Rhythm](https://github.com/shishir-dey/Rhythm)\*: Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap [🌐](https://shishir-dey.github.io/Rhythm/)
+---
+\* no thoughts, just vibes
