@@ -8,10 +8,6 @@
 - [libmodbuzz](https://github.com/shishir-dey/libmodbuzz): Rust implementation of the Modbus protocol [📚](https://shishir-dey.github.io/libmodbuzz/)
 - [spi-flash](https://github.com/shishir-dey/spi-flash): SPI flash driver for Winbond W25Q and similar devices [📚](https://shishir-dey.github.io/spi-flash/)
 
-#### Specification
-
-- [DatasheetXML](https://github.com/shishir-dey/datasheetxml): A machine-readable format for electronic component datasheets [📚](https://shishir-dey.github.io/DatasheetXML/)
-
 #### Tools
 
 - [Callisto](https://github.com/shishir-dey/Callisto)\*: probe-rs based ITM viewer for Cortex-M
@@ -43,8 +39,10 @@
 #### Misc.
 
 - [Clippy](https://github.com/shishir-dey/Clippy)\*: Minimal notepad tribute to Microsoft's Clippy [🌐](https://shishir-dey.github.io/Clippy/)
+- [DatasheetXML](https://github.com/shishir-dey/datasheetxml): A machine-readable format for electronic component datasheets [📚](https://shishir-dey.github.io/DatasheetXML/)
 - [eqOS](https://github.com/shishir-dey/eqos)\*: A game-theory-based Real-Time Operating System (RTOS) scheduler
 - [open_battery](https://github.com/shishir-dey/open_battery)\*: Flutter replica of the XiaoXiangElectric app for Jiabaida BMS [📚](https://shishir-dey.github.io/open_battery/)
 - [Rhythm](https://github.com/shishir-dey/Rhythm)\*: Rhythm helps track daily Energy, Clarity, and Mood in a calm, private yearly heatmap [🌐](https://shishir-dey.github.io/Rhythm/)
+- [WebLOGO](https://github.com/shishir-dey/WebLOGO)\*: A web-based implementation of the LOGO programming language [🌐](https://shishir-dey.github.io/WebLOGO/)
 ---
 \* no thoughts, just vibes
