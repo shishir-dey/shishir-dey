@@ -40,10 +40,6 @@
 - [vhdl-samples](https://github.com/shishir-dey/vhdl-samples): VHDL digital circuits with automated CI/CD test suite [📚](https://shishir-dey.github.io/vhdl-samples/)
 - [LISA](https://github.com/shishir-dey/LISA)\*: A synthesizable processor with an ISA based on a simplified LLVM-like bytecode format [📚](https://shishir-dey.github.io/LISA/)
 
-#### CAD
-
-- [cad-alarm-clock](https://github.com/shishir-dey/cad-alarm-clock): 3D modeled alarm clock designed in FreeCAD [🎨](https://shishir-dey.github.io/cad-alarm-clock/)
-
 #### Misc.
 
 - [Clippy](https://github.com/shishir-dey/Clippy)\*: Minimal notepad tribute to Microsoft's Clippy [🌐](https://shishir-dey.github.io/Clippy/)
