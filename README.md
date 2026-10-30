@@ -5,6 +5,7 @@
 - [libautomotive](https://github.com/shishir-dey/libautomotive): Rust automotive protocols (OBD-II, J1939, LIN, UDS) [📚](https://shishir-dey.github.io/libautomotive/)
 - [libpower](https://github.com/shishir-dey/libpower): Rust power electronics algorithms for embedded systems [📚](https://shishir-dey.github.io/libpower/)
 - [libiot](https://github.com/shishir-dey/libiot): Rust SDK for IoT cloud connectivity [📚](https://shishir-dey.github.io/libiot/)
+- [resigrok](https://github.com/shishir-dey/resigrok): A Rust rewrite of libsigrok
 - [libmodbuzz](https://github.com/shishir-dey/libmodbuzz): Rust implementation of the Modbus protocol [📚](https://shishir-dey.github.io/libmodbuzz/)
 - [spi-flash](https://github.com/shishir-dey/spi-flash): SPI flash driver for Winbond W25Q and similar devices [📚](https://shishir-dey.github.io/spi-flash/)
 
